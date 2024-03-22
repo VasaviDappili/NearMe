@@ -26,6 +26,11 @@ Execute the programs and publish them.
 
 ## CODE
 ```
+ap.html
+<html>
+<head>
+    <title>my city</title>
+</head>
 <body>
     <h1 align="center" bgcolor="Violet">NELLORE</h1>
     <h2 align="center" bgcolor="Violet">DAPPILI VASAVI(212223040030)</h2>
@@ -39,8 +44,7 @@ Execute the programs and publish them.
     <area target="" alt="Rainbow School" title="Rainbow School" href="School.html" coords="1100,764,1287,808" shape="rect">
 </map>
 </body>
-```
-```
+</html>
 <html>
 <head>
 <title>AYYAPPA SWAMI TEMPLE</title>
@@ -55,8 +59,6 @@ Execute the programs and publish them.
 </p>
 </body>
 </html>
-```
-```
 <html>
 <head>
 <title>NELLORE NAGARA VANAM PARK</title>
@@ -71,8 +73,6 @@ Execute the programs and publish them.
 </p>
 </body>
 </html>
-```
-```
 <html>
 <head>
 <title>SRI RADHAKRISHNA SWIMMING POOL</title>
@@ -87,8 +87,6 @@ Execute the programs and publish them.
 </p>
 </body>
 </html>
-```
-```
 <html>
 <head>
 <title>HOTEL SOUTHERN SUITES NELLORE</title>
@@ -103,8 +101,6 @@ Events like weddings, conferences, birthday celebrations, and exhibitions are ha
 </p>
 </body>
 </html>
-```
-```
 <html>
 <head>
 <title>RAINBOW SCHOOL</title>
@@ -120,8 +116,6 @@ Events like weddings, conferences, birthday celebrations, and exhibitions are ha
 </body>
 </html>
 ```
-
-
 ## OUTPUT
 ![alt text](<kavya/mapapp/static/Screenshot (25).png>)
 ![alt text](<kavya/mapapp/static/Screenshot (26).png>)
