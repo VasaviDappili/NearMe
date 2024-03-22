@@ -26,7 +26,7 @@ Execute the programs and publish them.
 
 ## CODE
 ```
-ap.html
+map.html
 <html>
 <head>
     <title>my city</title>
